@@ -59,10 +59,10 @@ def generate_markdown_report(analysis_results):
     
     report += "## 5. Visualizations\n\n"
     report += "The following visualizations provide a graphical representation of the key trends and performance metrics:\n\n"
-    report += "- **Daily Total Revenue Trend**: `outputdaily_sales_trend.png`\n"
-    report += "- **Promotion Effectiveness**: `outputpromotion_effectiveness.png`\n"
-    report += "- **Regional and Channel Performance**: `outputregion_channel_performance.png`\n"
-    report += "- **Top 10 Products (SKU) by Revenue**: `outputtop_10_products.png`\n"
+    report += "- **Daily Total Revenue Trend**: `output/daily_sales_trend.png`\n"
+    report += "- **Promotion Effectiveness**: `output/promotion_effectiveness.png`\n"
+    report += "- **Regional and Channel Performance**: `output/region_channel_performance.png`\n"
+    report += "- **Top 10 Products (SKU) by Revenue**: `output/top_10_products.png`\n"
     
     return report
 

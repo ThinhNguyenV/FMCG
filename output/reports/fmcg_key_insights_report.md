@@ -60,7 +60,7 @@ The stockout rate of 2.02% suggests that a small but significant number of poten
 
 The following visualizations provide a graphical representation of the key trends and performance metrics:
 
-- **Daily Total Revenue Trend**: `outputdaily_sales_trend.png`
-- **Promotion Effectiveness**: `outputpromotion_effectiveness.png`
-- **Regional and Channel Performance**: `outputregion_channel_performance.png`
-- **Top 10 Products (SKU) by Revenue**: `outputtop_10_products.png`
+- **Daily Total Revenue Trend**: `output/daily_sales_trend.png`
+- **Promotion Effectiveness**: `output/promotion_effectiveness.png`
+- **Regional and Channel Performance**: `output/region_channel_performance.png`
+- **Top 10 Products (SKU) by Revenue**: `output/top_10_products.png`
